@@ -161,6 +161,4 @@ Open `notebook/doctalk_pipeline.ipynb` in Google Colab or Jupyter and run all ce
 
 ---
 
-## 📬 Contact
-
-Built by **Divyasri Kadambi**
+Built by **Divyasri Kadambi** 
